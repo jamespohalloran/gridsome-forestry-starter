@@ -20,7 +20,7 @@ fields:
     required: true
     display_utc: true
     date_format: D. MMMM YYYY
-    time_format: ''
+    time_format: " h:mm A ZZ"
     export_format: MM/DD/YYYY
   default: now
 - type: select
