@@ -18,7 +18,7 @@ fields:
   label: Date
   config:
     required: true
-    display_utc: true
+    display_utc: false
     date_format: D. MMMM YYYY
     time_format: " h:mm A ZZ"
     export_format: MM/DD/YYYY
